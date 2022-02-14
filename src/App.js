@@ -21,20 +21,4 @@ function App() {
 }
 
 
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <h1>Design a search page with search results </h1>
-//       <Router>
-//         <Routes>
-//           <Route path='/search' element={<Home />} />
-//             {/* <Search Page> */}
-//           <Route path='/' element={<search />} />
-//         </Routes>
-//       </Router>
-//     </div>
-//   );
-// }
-
 export default App;
